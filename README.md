@@ -3,6 +3,11 @@ Marmedsa Noatum Maritime Android demo application
 
 Demo to show the skills as an Android Developer
 
+Application
+------------
+
+- A small app which connects with the end point of API api.themoviedb.org in order to show the most recent popular movies.
+
 Main points
 ------------
 
