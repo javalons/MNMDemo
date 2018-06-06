@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Noatum Maritime Demo</string>
+    <string name="no_movie">No movie selected</string>
+    <string name="demo">Demo sample by Javi Alonso</string>
+    <string name="company">Noatum Maritime</string>
+    <string name="fetch_error">Fetch error, probably no internet connection</string>
+
+    <!-- Log tag-->
+    <string name="null_pointer">Error, Null pointer</string>
+
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="company_text">18dp</dimen>
+  <dimen name="movie_title">12dp</dimen>
+  <dimen name="movie_detail_year">12sp</dimen>
+  <dimen name="movie_detail_title">15sp</dimen>
+  <dimen name="no_movie_text">20sp</dimen>
+  <dimen name="movie_title_bar_text">14sp</dimen>
+  <dimen name="navigation_width">260dp</dimen>
+  <dimen name="made_size">25sp</dimen>
+</resources>
