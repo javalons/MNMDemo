@@ -13,7 +13,7 @@ Main points
 
 - The application is developed based on Clean Architecture and MVP UI Pattern.
 
-- The application uses Dagger 2 for dependency injection using two different scopes depends on the component.
+- The application uses Dagger 2 for dependency injection using different scopes annotations depends on the component.
 
 - The architecture is distributed in four important packages, 
 data (for API networking and data model) , di (for dependency injection), 
