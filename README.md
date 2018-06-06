@@ -1,7 +1,7 @@
-Marmedsa Noatum Maritime demo Android application
+Marmedsa Noatum Maritime Android demo application
 ===
 
-Demo of show the skills as an Android Developer
+Demo to show the skills as an Android Developer
 
 Main points
 ------------
