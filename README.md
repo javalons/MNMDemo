@@ -1,4 +1,4 @@
-Marmedsa Noatum Maritime Android demo application
+Android demo application
 ===
 
 Demo to show the skills as an Android Developer
